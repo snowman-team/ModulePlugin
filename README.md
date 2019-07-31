@@ -115,4 +115,8 @@ RouterManager.handleAppLink(this) { appLink ->
     return@handleAppLink appLink.startsWith("xueqiu") && !appLink.contains("https") // replace this line to your rules
 }
 ```
-Test it: adb shell am start -a android.intent.action.VIEW -d "[scheme://appLink]" [app package name]
+
+Test it: 
+```
+adb shell am start -a android.intent.action.VIEW -d "[scheme://appLink]" [app package name]
+```
