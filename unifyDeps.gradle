@@ -1,0 +1,11 @@
+rootProject.ext.compileSdkVersion = 29
+rootProject.ext.minSdkVersion = 21
+rootProject.ext.targetSdkVersion = 29
+rootProject.ext.sourceCompatibility = JavaVersion.VERSION_1_8
+
+rootProject.ext.deps = [
+        // android
+        androidAppCompat        : "androidx.appcompat:appcompat:1.0.2",
+        androidKTX              : "androidx.core:core-ktx:1.0.2",
+]
+

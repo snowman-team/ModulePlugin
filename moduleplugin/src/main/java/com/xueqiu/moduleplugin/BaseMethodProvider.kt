@@ -1,0 +1,3 @@
+package com.xueqiu.moduleplugin
+
+interface BaseMethodProvider
