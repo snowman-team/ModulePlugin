@@ -1,4 +1,4 @@
-Snowball Android Toolbox
+Snowball Android Module Plugin
 ============
 
 A simple tool for Android modular communication and page navigating.
