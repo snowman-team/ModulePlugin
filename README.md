@@ -1,4 +1,4 @@
-Snowball Android Module Plugin
+Snowball Android Module Plugin [ ![Download](https://api.bintray.com/packages/aquarids/maven/plugin/images/download.svg?version=0.1.0) ](https://bintray.com/aquarids/maven/plugin/0.1.0/link)
 ============
 
 A simple tool for Android modular communication and page navigating.
@@ -6,9 +6,6 @@ A simple tool for Android modular communication and page navigating.
 ## Installation
 
 ```groovy
-repositories {
-    maven { url "https://xueqiumobile.bintray.com/maven" }
-}
 dependencies {
     // add dependency, please replace x.y.z to the latest version
     implementation "com.xueqiu.moduleplugin:plugin:x.y.z"
