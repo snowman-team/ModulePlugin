@@ -1,4 +1,4 @@
-Snowball Android Module Plugin [ ![Download](https://api.bintray.com/packages/aquarids/maven/plugin/images/download.svg?version=0.1.0) ](https://bintray.com/aquarids/maven/plugin/0.1.0/link)
+Snowball Android Module Plugin <br> [ ![Download](https://api.bintray.com/packages/aquarids/maven/plugin/images/download.svg?version=0.1.0) ](https://bintray.com/aquarids/maven/plugin/0.1.0/link)
 ============
 
 A simple tool for Android modular communication and page navigating.
